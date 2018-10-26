@@ -1,0 +1,1 @@
+- Se ha de conectar uno antes que el resto para crear la partida y que los otros se unan. (No pueden empezar dos a la vez)

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: bd56f5893d552a746b739d4357e2134c
+timeCreated: 1520264508
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bup: {instanceID: 0}
+  - bdown: {instanceID: 0}
+  - sup: {instanceID: 0}
+  - sdown: {instanceID: 0}
+  - helper: {fileID: 100000, guid: 70c98ed43d12fb2459e8f118b9a292cf, type: 3}
+  - blueHelper: {fileID: 100000, guid: 70c98ed43d12fb2459e8f118b9a292cf, type: 3}
+  - greenHelper: {fileID: 100000, guid: 70c98ed43d12fb2459e8f118b9a292cf, type: 3}
+  - redHelper: {fileID: 100000, guid: 70c98ed43d12fb2459e8f118b9a292cf, type: 3}
+  - background2: {fileID: 1304578836555658, guid: 50ae5a2ac64c27c479e1891247005ad8,
+      type: 2}
+  - player: {fileID: 1861887281725580, guid: 55c1b0ed1ba9fc64d936b10bf143db3e, type: 2}
+  - bluePlayer: {fileID: 1861887281725580, guid: 55c1b0ed1ba9fc64d936b10bf143db3e,
+      type: 2}
+  - greenPlayer: {fileID: 1861887281725580, guid: 55c1b0ed1ba9fc64d936b10bf143db3e,
+      type: 2}
+  - redPlayer: {fileID: 1861887281725580, guid: 55c1b0ed1ba9fc64d936b10bf143db3e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
